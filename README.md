@@ -1,2 +1,2 @@
 # Health-Care-Dashboard
-HealthCare Dashboard using API ReactJS and ChartJS
+HealthCare Dashboard API Call using ReactJS and ChartJS
